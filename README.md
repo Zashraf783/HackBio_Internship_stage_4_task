@@ -47,7 +47,7 @@ The script conducts differential expression analysis using DESeq2, identifying s
 MA Plot: The script generates an MA plot to visualize the differential expression results for IDH Wildtype vs Mutant gliomas.
 
 ## Machine learning class.
-A KNN model was performed with unsupervised machine learning clustering and trained on the selected features. The model's performance is evaluated using accuracy. Depending on the gene expression data and the classes.
+A K-Means model was performed with unsupervised machine learning clustering and trained on the selected features. The model's performance is evaluated using accuracy. Depending on the gene expression data and the classes.
 
 ### **Visualization** 
 performing a K-Means Clustering of Gene Expression Data with principal component analysis (PCA)
